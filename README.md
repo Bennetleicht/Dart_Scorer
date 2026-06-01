@@ -3,6 +3,7 @@ Ein hardwarebasierter, automatisierter Punktezähler für Dartspiele auf Basis e
 Entwickelt als robustere und kostengünstigere Alternative zu empfindlichen Smartphone- oder Tablet-Apps direkt neben der Dartscheibe.
 
 **FeaturesSpielmodi:** 
+
 Unterstützt die klassischen Modi 301 und 501. 
 
 Eingabe & Validierung: Punkteeingabe über ein 4x4 Tastenfeld (Membrane Switch Module) mit automatischer Subtraktion und Prüfung auf Fehlwürfe oder Überwerfen (Bust).  
@@ -14,6 +15,7 @@ Sound-Feedback: Ein passiver Buzzer spielt dynamische Tonfolgen für verschieden
 Steuerung: Einfache Bedienung (# zum Bestätigen, * zum Löschen, D für einen jederzeitigen Reset).  
 
 **Hardware-Komponenten:**
+
 Arduino UNO R3   
 
 LCD1602 Display-Modul   
