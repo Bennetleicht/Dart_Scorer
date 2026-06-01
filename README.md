@@ -1,4 +1,5 @@
 **Arduino Dart Scorer**
+
 Ein hardwarebasierter, automatisierter Punktezähler für Dartspiele auf Basis eines Arduino UNO R3. 
 Entwickelt als robustere und kostengünstigere Alternative zu empfindlichen Smartphone- oder Tablet-Apps direkt neben der Dartscheibe.
 
